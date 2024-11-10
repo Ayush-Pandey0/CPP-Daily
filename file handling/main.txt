@@ -1,0 +1,4 @@
+My name is ayush
+My title is pandey
+My age is 19
+This is written using seekp
